@@ -1,3 +1,4 @@
-print("God is good all the time")
 
+print("God is good all the time")
+print("Bugs removed")
 
